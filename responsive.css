@@ -1,0 +1,24 @@
+@media screen and (max-width: 767px) {
+    .nav_list{
+        display: none;
+    }
+    .projects-img,.list-m{
+        width: 94% !important;
+        margin: 16px auto;
+    }
+    .set-m{
+        width: 94% !important;
+        margin: 32px auto 0;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    .projects-img,.list-m{
+        width: 48% !important;
+        margin: 16px auto;
+    }
+}
+
+@media screen and (min-width: 1024px){
+    
+}
